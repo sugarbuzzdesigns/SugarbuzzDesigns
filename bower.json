@@ -1,0 +1,12 @@
+{
+  "name": "foundationpress",
+  "main": [
+    "css/app.css",
+    "js/app.js"
+  ],
+  "ignore": [
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}
